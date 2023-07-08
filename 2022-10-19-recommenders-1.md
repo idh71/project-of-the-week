@@ -13,7 +13,7 @@ If you want to receive reminders about this event, sign up here
   <a href="https://lu.ma/dtc-potw-recsys1"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
 </p>
 
-## Technologies 
+## Technologie 
 
 * Scikit-Learn
 * Jupyter notebooks
